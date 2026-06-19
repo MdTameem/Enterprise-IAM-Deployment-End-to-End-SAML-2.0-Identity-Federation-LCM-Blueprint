@@ -68,5 +68,4 @@ This project solves those critical business pain points by:
 ### 3. Captured SAML 2.0 XML Token Assertion Payload
 <img width="1559" height="641" alt="image" src="https://github.com/user-attachments/assets/b22b6859-5038-46f5-8161-459c1f26767e" />
 
-### 4. Successful Lifecycle Leaver Deactivation Proof
-![Deprovisioning Validation](image_3d3a14.pn
+### 4. Successful Lifecycle Leaver Deactivation Proo
